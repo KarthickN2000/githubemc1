@@ -23,7 +23,7 @@ public class Creatingobjects {
         Student random = new Student(kunal);
         Student one = new Student();
         Student two = one;
-        one.name = "Usha";
+        one.name = "UshaN";
 
         System.out.println(two.name);
         /*System.out.println(random.name);
