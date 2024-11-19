@@ -43,7 +43,7 @@ public class Creatingobjects {
 }
 class Student{
         // creating the class and its properties
-        int rno = 100;
+        int rno = 105;
         String  name = "Karthick";
         float marks = 90.0005f;
 
